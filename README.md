@@ -1,4 +1,4 @@
-# Project 1: Centralised Azure Infrastructure Monitoring & Security Log Hub
+# Centralised Azure Infrastructure Monitoring & Security Log Hub
 
 ## 📌 Project Overview
 In this project, I built a centralized monitoring solution inside Microsoft Azure. Instead of checking system logs and performance on every virtual machine separately, I set up a pipeline that sends VM performance data and security event logs into a single Log Analytics workspace, where they can be queried in one place. I also created two alert rules from KQL queries.
